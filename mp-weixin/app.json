@@ -1,0 +1,83 @@
+{
+  "pages": [
+    "pages/login/login",
+    "pages/register/register",
+    "pages/forget/forget",
+    "pages/center/center",
+    "pages/user-info/userinfo",
+    "pages/recharge/recharge",
+    "pages/address/detail",
+    "pages/address/list",
+    "pages/cart/list",
+    "pages/cart/add-or-update",
+    "pages/cart/detail",
+    "pages/news/list",
+    "pages/news/add-or-update",
+    "pages/news/detail",
+    "pages/shangjia/list",
+    "pages/shangjia/add-or-update",
+    "pages/shangjia/detail",
+    "pages/shangpin/list",
+    "pages/shangpin/add-or-update",
+    "pages/shangpin/detail",
+    "pages/shangpinCommentback/list",
+    "pages/shangpinCommentback/add-or-update",
+    "pages/shangpinCommentback/detail",
+    "pages/shangpinOrder/list",
+    "pages/shangpinOrder/confirm",
+    "pages/yonghu/list",
+    "pages/yonghu/add-or-update",
+    "pages/yonghu/detail",
+    "pages/index/index"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "购物商城小程序",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "color": "#FFFFFF",
+    "selectedColor": "#B24592",
+    "borderStyle": "black",
+    "backgroundColor": "#E57498",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "iconPath": "static/tabs/index.png",
+        "selectedIconPath": "static/tabs/index1.png",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/shangjia/list",
+        "iconPath": "static/tabs/type.png",
+        "selectedIconPath": "static/tabs/type1.png",
+        "text": "商家"
+      },
+      {
+        "pagePath": "pages/shangpin/list",
+        "iconPath": "static/tabs/type.png",
+        "selectedIconPath": "static/tabs/type1.png",
+        "text": "商品"
+      },
+      {
+        "pagePath": "pages/news/list",
+        "iconPath": "static/tabs/order.png",
+        "selectedIconPath": "static/tabs/order1.png",
+        "text": "公告信息"
+      },
+      {
+        "pagePath": "pages/center/center",
+        "iconPath": "static/tabs/mine.png",
+        "selectedIconPath": "static/tabs/mine1.png",
+        "text": "我的"
+      }
+    ]
+  },
+  "usingComponents": {
+    "uni-load-more": "/components/mescroll-uni/mescroll-uni",
+    "mescroll-uni": "/components/mescroll-uni/mescroll-uni",
+    "uni-popup": "/components/uni-popup/uni-popup"
+  }
+}

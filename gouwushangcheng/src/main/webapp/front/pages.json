@@ -1,0 +1,257 @@
+{
+	"pages": [{
+		"path": "pages/login/login",
+		"style": {
+			"navigationBarBackgroundColor": "#E57498",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "登录"
+		}
+	},{
+		"path": "pages/register/register",
+		"style": {
+			"navigationBarBackgroundColor": "#E57498",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "注册"
+		}
+	},{
+		"path": "pages/forget/forget",
+		"style": {
+			"navigationBarBackgroundColor": "#E57498",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "忘记密码"
+		}
+	},{
+		"path": "pages/center/center",
+		"style": {
+			"navigationBarBackgroundColor": "#E57498",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的"
+		}
+	},{
+		"path": "pages/user-info/userinfo",
+		"style": {
+			"navigationBarBackgroundColor": "#E57498",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "用户信息"
+		}
+	}
+		,{
+			"path": "pages/recharge/recharge",
+			"style": {
+				"navigationBarBackgroundColor": "#E57498",
+				"navigationBarTextStyle": "white",
+				"navigationBarTitleText": "充值"
+			}
+		}
+
+ 	,{
+		"path": "pages/address/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#E57498",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "添加地址"
+		}
+	},{
+		"path": "pages/address/list",
+		"style": {
+			"navigationBarBackgroundColor": "#E57498",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的地址"
+		}
+	}
+	,{
+		"path": "pages/cart/list",
+		"style": {
+			"navigationBarBackgroundColor": "#E57498",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "购物车展示"
+		}
+	},{
+		"path": "pages/cart/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#E57498",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "购物车添加"
+		}
+	},{
+		"path": "pages/cart/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#E57498",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "购物车详情"
+		}
+	}
+	,{
+		"path": "pages/news/list",
+		"style": {
+			"navigationBarBackgroundColor": "#E57498",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "公告信息展示"
+		}
+	},{
+		"path": "pages/news/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#E57498",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "公告信息添加"
+		}
+	},{
+		"path": "pages/news/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#E57498",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "公告信息详情"
+		}
+	}
+	,{
+		"path": "pages/shangjia/list",
+		"style": {
+			"navigationBarBackgroundColor": "#E57498",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "商家展示"
+		}
+	},{
+		"path": "pages/shangjia/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#E57498",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "商家添加"
+		}
+	},{
+		"path": "pages/shangjia/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#E57498",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "商家详情"
+		}
+	}
+	,{
+		"path": "pages/shangpin/list",
+		"style": {
+			"navigationBarBackgroundColor": "#E57498",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "商品展示"
+		}
+	},{
+		"path": "pages/shangpin/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#E57498",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "商品添加"
+		}
+	},{
+		"path": "pages/shangpin/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#E57498",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "商品详情"
+		}
+	}
+	,{
+		"path": "pages/shangpinCommentback/list",
+		"style": {
+			"navigationBarBackgroundColor": "#E57498",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "商品评价展示"
+		}
+	},{
+		"path": "pages/shangpinCommentback/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#E57498",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "商品评价添加"
+		}
+	},{
+		"path": "pages/shangpinCommentback/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#E57498",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "商品评价详情"
+		}
+	}
+	,{
+		"path": "pages/shangpinOrder/list",
+		"style": {
+			"navigationBarTitleText": "商品订单"
+		}
+	},{
+		"path": "pages/shangpinOrder/confirm",
+		"style": {
+			"navigationBarTitleText": "订单确认"
+		}
+	}
+	,{
+		"path": "pages/yonghu/list",
+		"style": {
+			"navigationBarBackgroundColor": "#E57498",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "用户展示"
+		}
+	},{
+		"path": "pages/yonghu/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#E57498",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "用户添加"
+		}
+	},{
+		"path": "pages/yonghu/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#E57498",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "用户详情"
+		}
+	}
+			,{
+		"path": "pages/index/index",
+		"style": {
+			"navigationBarBackgroundColor": "#E57498",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "首页"
+		}
+	}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "购物商城小程序",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	},
+	"tabBar": {
+		"color": "#FFFFFF",
+		"selectedColor": "#B24592",
+		"borderStyle": "black",
+		"backgroundColor": "#E57498",
+		"list": [{
+				"pagePath": "pages/index/index",
+				"iconPath": "static/tabs/index.png",
+				"selectedIconPath": "static/tabs/index1.png",
+				"text": "首页"
+			}
+			,{
+				"pagePath": "pages/shangjia/list",
+				"iconPath": "static/tabs/type.png",
+				"selectedIconPath": "static/tabs/type1.png",
+				"text": "商家"
+			}
+			,{
+				"pagePath": "pages/shangpin/list",
+				"iconPath": "static/tabs/type.png",
+				"selectedIconPath": "static/tabs/type1.png",
+				"text": "商品"
+			}
+			,{
+			 	"pagePath": "pages/news/list",
+				"iconPath": "static/tabs/order.png",
+			 	"selectedIconPath": "static/tabs/order1.png",
+				"text": "公告信息"
+			}
+			,{
+				"pagePath": "pages/center/center",
+				"iconPath": "static/tabs/mine.png",
+				"selectedIconPath": "static/tabs/mine1.png",
+				"text": "我的"
+			}
+		]
+	}
+}
